@@ -1,0 +1,56 @@
+#firstRoom{
+    float:left;
+    margin-right: 17px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+    overflow: scroll;
+   }
+   
+#SecondRoom{
+    float:left;
+    margin-right: 17px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+     overflow: scroll;
+   }
+   
+#ThirdRoom{
+    float:left;
+    margin-right: 17px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+     overflow: scroll;
+   }
+#FourthRoom{
+    float:left;
+    margin-right: 17px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+     overflow: scroll;
+   }
+#FifthRoom{
+    float:left;
+    margin-right: 17px;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+    position: static;
+     overflow: scroll;
+   }
+#SixthRoom{
+    float:left;
+    border-radius: 15px;
+    text-shadow: 3px 3px 6px grey;
+     overflow: scroll;
+   }
+   
+#hotelLogo {
+  position: absolute;
+  top: 8px;
+  right: 550px;
+}
+
+#hotelName {
+  text-shadow: 3px 3px 6px grey;
+   border-radius: 15px;
+}
+
